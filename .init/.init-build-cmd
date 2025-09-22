@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/burger-shop-online-ordering-platform-89122-89140/burger_shop_frontend"
+}
